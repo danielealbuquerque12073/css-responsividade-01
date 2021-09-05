@@ -1,0 +1,25 @@
+h2{
+	color: red;
+
+}
+div{
+	font: 16px sans-serif;  
+    max-width: 1200%; 
+    min-width: 320%; 
+    margin: 0 auto;
+    padding: 20px;
+    background: #FFE4C4;
+    font-size: 1vw;
+  }
+img{
+ 	max-width: 100%;
+ 	width: 320px;
+ 	height: 320px;
+ 	display: block;
+ 	border-style: double;
+ 	border-color: black;
+    
+
+ }
+    
+    

@@ -1,0 +1,49 @@
+body{
+	Background: #5F7285;
+	max-width: 1200%; 
+    min-width: 220%; 
+    margin: 0 auto;
+    padding: 20px;
+    font-size: 1vw;
+  } 
+
+h1{
+	font-family: 'Varela Round', sans-serif;
+	font-size: 105px;
+	color: #FFF;
+}
+
+h4{
+	font-size: 22px;
+	color: #fff;
+}
+
+p{
+	font-family: 'Nunito', sans-serif;;
+}
+
+.imagem1{
+	border-style: double;
+	border-width: 10px;
+	border-color: #829DAD;
+	position: absolute;
+	left: 50%;
+	top: 50%
+}
+
+.imagem2{
+	border-style: double;
+	border-width: 10px;
+	border-color: #829DAD;
+	position: center;
+	left: 50%;
+	
+}
+
+div.links{
+	font-size: 13px;
+}
+
+p{
+	color: #FFF;
+}
